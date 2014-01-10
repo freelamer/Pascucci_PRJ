@@ -25,7 +25,7 @@
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="61" column="22" selection-start="2115" selection-end="2115" vertical-scroll-proportion="-14.423077">
+                <state line="38" column="39" selection-start="1229" selection-end="1229" vertical-scroll-proportion="-14.384615">
                   <folding />
                 </state>
               </provider>
@@ -34,7 +34,7 @@
           <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="162" column="13" selection-start="2915" selection-end="2915" vertical-scroll-proportion="0.5414258">
+                <state line="160" column="12" selection-start="2889" selection-end="2889" vertical-scroll-proportion="0.32755297">
                   <folding />
                 </state>
               </provider>
@@ -167,8 +167,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -289,6 +289,25 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="22" selection-start="2115" selection-end="2115" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="162" column="13" selection-start="2915" selection-end="2915" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Start-1.psd">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="0" selection-start="1519" selection-end="1519" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -318,14 +337,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="22" selection-start="2115" selection-end="2115" vertical-scroll-proportion="-14.423077">
+        <state line="38" column="39" selection-start="1229" selection-end="1229" vertical-scroll-proportion="-14.384615">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="162" column="13" selection-start="2915" selection-end="2915" vertical-scroll-proportion="0.5414258">
+        <state line="160" column="12" selection-start="2889" selection-end="2889" vertical-scroll-proportion="0.32755297">
           <folding />
         </state>
       </provider>

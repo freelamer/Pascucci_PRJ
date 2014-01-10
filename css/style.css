@@ -10,6 +10,20 @@
 header, nav, section, article, aside, footer {
     display: block;
 }
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after {
+    clear: both;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/**------------------------------------------------------------------**/
 body {
     font: 12px/18px Arial, Tahoma, Verdana, sans-serif;
     background-image: url('../img/bg_0.jpg');
@@ -113,6 +127,13 @@ input {
     opacity: 1;
 
 }
+/**-------------------------slider--------------------**/
+.slider{
+    position: relative;
+    display: block;
+    height: auto;
+
+}
 .h_slider{
     position: relative;
 
@@ -133,6 +154,26 @@ input {
     margin: 0 auto;
     width: 940px;
     padding-right: 3px;
+}
+.e_slider{
+    position: absolute;
+    bottom:20px;
+    left: 360px;
+    margin:0px;
+    width: 250px;
+
+}
+.e_slider ul{
+    position: relative;
+    display: block;
+
+}
+
+.e_slider ul li{
+    position: relative;
+    float: left;
+    list-style: none;
+    padding: 0 9px;
 }
 
 /* Footer
@@ -168,12 +209,29 @@ input {
     list-style: none;
     padding: 0 9px;
 }
+.soc_service ul{
+    position: relative;
+    display: block;
+    margin: 15px auto;
+    height: 35px;
+    padding: 0;
+    }
+
 .f_num{
     display: block;
     position: relative;
     float: left;
     margin: 0 auto;
-    width: auto;
+    width: 45%;
+}
+#org_num{
+    display: block;
+    color: #FFFFFF;
+    font-family: Calibri;
+    font-size: 27px;
+    margin: 15px auto;
+    font-weight: lighter;
+    opacity: 0.8;
 }
 .f_block{
     display: block;
@@ -182,8 +240,16 @@ input {
     width: 25%;
 }
 .f_block h3{
+    color: #FFFFFF;
     display: block;
     text-align: right;
+    font-size: 25px;
+    font-weight: lighter;
+    background: rgba(255, 255, 255, 0.3);
+    margin: 10px 0px 0px 60px;
+    padding: 5px;
+}
+
 }
 
 
