@@ -26,7 +26,6 @@ header, nav, section, article, aside, footer {
 /**------------------------------------------------------------------**/
 body {
     font: 12px/18px Arial, Tahoma, Verdana, sans-serif;
-    background-image: url('../img/bg_0.jpg');
     background-repeat: no-repeat;
     -moz-background-size: 100%;
     -webkit-background-size: 100%;
@@ -38,7 +37,7 @@ body {
 }
 a {
     outline: none;
-    text-decoration: underline;
+    text-decoration: none;
 }
 a:hover {
     text-decoration: none;
@@ -116,7 +115,7 @@ input {
     font-size: 18px;
     text-transform: uppercase;
     text-decoration: none;
-    opacity: 0.7;
+    opacity: 0.9;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
@@ -146,6 +145,9 @@ input {
 }
 .c_slider{
     position: relative;
+    width: 940px;
+    background-color: #FFFFFF;
+    margin: 0 auto;
 }
 .c_slider img{
     position: relative;
@@ -153,7 +155,7 @@ input {
     padding: 0px;
     margin: 0 auto;
     width: 940px;
-    padding-right: 3px;
+
 }
 .e_slider{
     position: absolute;
@@ -161,20 +163,68 @@ input {
     left: 360px;
     margin:0px;
     width: 250px;
+}
+.e_slider_2{
+    position: absolute;
+    bottom:10px;
+    left: 360px;
+    margin:0px;
+    width: 250px;
 
 }
-.e_slider ul{
+.e_slider ul, .e_slider_2 ul{
     position: relative;
     display: block;
 
 }
 
-.e_slider ul li{
+.e_slider ul li, .e_slider_2 ul li{
     position: relative;
     float: left;
     list-style: none;
     padding: 0 9px;
 }
+/* Catalog
+-----------------------------------------------------------------------------*/
+.catalog{
+    display: block;
+    position: relative;
+    width: 940px;
+    height: 460px;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    padding: 0px;
+}
+.catalog_box{
+    display: block;
+    position: relative;
+    float: left;
+    width: 23.99%;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+.catalog_img a,img{
+    display: block;
+
+}
+
+.catalog_name h4{
+    display: block;
+    padding: 10px 0px;
+    margin: 0;
+    color: black;
+    font-size: 18px;
+    font-weight: lighter;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+
+/*
+-----------------------------------------------------------------------------*/
+
+
 
 /* Footer
 -----------------------------------------------------------------------------*/
