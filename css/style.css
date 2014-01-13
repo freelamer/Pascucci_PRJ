@@ -94,8 +94,15 @@ input {
     /*width: 1000px;*/
     padding-left: 120px;
     margin: -15px auto;
-    border-right: 1px solid #ffffff;
-    border-left: 1px solid #ffffff;
+   /** border-right: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;**/
+}
+.top_menu_2{
+    /*width: 1000px;*/
+    padding-left: 120px;
+    margin: -15px auto;
+    /** border-right: 1px solid #ffffff;
+ border-left: 1px solid #ffffff;**/
 }
 
 .top_menu ul li{
@@ -106,7 +113,18 @@ input {
     border-top: 1px solid #FFFFFF;
     border-bottom: 1px solid #FFFFFF;
 }
+.top_menu_2 ul li{
+    position: relative;
+    float: left;
+    list-style: none;
+    padding: 10px 10px;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+}
 .top_menu ul li:hover{
+    background: rgba(30, 30, 30, 0.4);
+}
+.top_menu_2 ul li:hover{
     background: rgba(30, 30, 30, 0.4);
 }
 .top_menu ul li a{
@@ -121,10 +139,24 @@ input {
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
 }
-
+.top_menu_2 ul li a{
+    color: #000000;
+    font-family: Calibri;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+    opacity: 0.9;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
 .top_menu ul li a:hover{
     opacity: 1;
 
+}
+.top_menu_2 ul li a:hover{
+    opacity: 1;
 }
 .page_title {
     position: relative;
@@ -344,6 +376,18 @@ input {
     font-family: Calibri;
     text-align: center;
     color: #ffffff;
+
+}
+#footer_2 {
+    position: relative;
+    width: 940px;
+    height: 120px;
+    border-top: 1px solid #000000;
+    margin: 20px auto;
+    font-size: 15px;
+    font-family: Calibri;
+    text-align: center;
+    color: #000000;
 
 }
 .c_footer{
