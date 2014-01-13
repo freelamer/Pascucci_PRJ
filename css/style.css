@@ -277,9 +277,47 @@ input {
 .catalog_rat ul li:first-of-type{
     padding-left: 0px;
 }
-/*
+/* Blog -Akciya
 -----------------------------------------------------------------------------*/
 
+.blog{
+    display: block;
+    position: relative;
+    background: #FFF;
+    margin: 0 auto;
+    padding:0px 0px;
+    width: 940px;
+}
+.blog_box{
+    display: block;
+    position: relative;
+    float: left;
+    width: 100%;
+    margin: 0px;
+    padding: 10px 0px;
+
+}
+.post_date{
+    position: relative;
+    margin: 0px;
+    padding: 0px 5px;
+    float: left;
+    width: 15.99%;
+}
+.post_content{
+    position: relative;
+    margin: 0px;
+    padding: 0px 5px;
+    float: left;
+    width: 80.99%;
+}
+.post_content h4,p,.post_date h3{
+    display: block;
+    margin: 0px;
+}
+
+/*
+-----------------------------------------------------------------------------*/
 
 
 /* Footer
