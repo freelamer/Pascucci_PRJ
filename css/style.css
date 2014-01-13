@@ -315,6 +315,18 @@ input {
     display: block;
     margin: 0px;
 }
+.post_content h4{
+    color: #000000;
+    font-size: 22px;
+}
+.post_date h3{
+    color: #bf681d;
+    font-size: 22px;
+    padding: 0 15px;
+}
+.post_date p{
+
+}
 
 /*
 -----------------------------------------------------------------------------*/
