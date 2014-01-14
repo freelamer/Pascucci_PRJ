@@ -125,7 +125,7 @@ input {
     background: rgba(30, 30, 30, 0.4);
 }
 .top_menu_2 ul li:hover{
-    background: rgba(30, 30, 30, 0.4);
+    background: rgba(254,163,158,0.6);
 }
 .top_menu ul li a{
     color: #ffffff;
@@ -154,9 +154,11 @@ input {
 .top_menu ul li a:hover{
     opacity: 1;
 
+
 }
 .top_menu_2 ul li a:hover{
     opacity: 1;
+    color: #FFFFFF;
 }
 .page_title {
     position: relative;
