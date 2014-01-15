@@ -237,6 +237,73 @@ input {
     list-style: none;
     padding: 0 9px;
 }
+/*-----------------------------page_container---------------------------*/
+.page{
+    display: block;
+    position: relative;
+    width: 940px;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    padding: 20px 20px;
+}
+.map_service{
+    display: block;
+    position: relative;
+    float: left;
+    width: 65.99%;
+}
+.map_service img{
+    display: block;
+    position: relative;
+}
+.page_r_tab{
+    display: block;
+    position: relative;
+    float: left;
+    width: 25.99%;
+    padding-left: 20px;
+}
+.page_f_tab{
+    display: block;
+    position: relative;
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+    border-top: 1px solid #000000;
+    padding: 10px 0px;
+}
+.dlv_srv{
+    display: block;
+    position: relative;
+    float: left;
+    width: 55.99%;
+}
+.dlv_srv img{
+    display: block;
+    position: relative;
+    float: left;
+    width: 40%;
+}
+.dlv_srv_c{
+    display: block;
+    position: relative;
+    float: left;
+    width: 60%;
+    padding: 0px 5px;
+    margin: 0px;
+}
+
+.card_srv{
+    display: block;
+    position: relative;
+    float: left;
+    width: 40.99%;
+    background: #ffe0c2;
+
+}
+
+
+
 /* Catalog
 -----------------------------------------------------------------------------*/
 .catalog{
