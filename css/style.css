@@ -330,6 +330,31 @@ input {
     padding-top: 10px;
     padding-left: 10px;
 }
+/*-----------------------------news_container---------------------------*/
+.news_box{
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    padding: 5px 0px;
+    border-bottom:1px solid #000000; ;
+}
+.news_m_box{
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    padding: 5px 0px 15px 0px;
+    border-bottom:4px solid #acacac; ;
+}
+.n_box_img{
+    display: block;
+    position: relative;
+    float: left;
+    width: 40.99%;
+}
+.n_box_img a img{
+    display: block;
+    position: relative;
+}
 /* Catalog
 -----------------------------------------------------------------------------*/
 .catalog{
