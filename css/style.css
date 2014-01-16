@@ -1,11 +1,11 @@
 /**---------------------main_and_bugfix----------------------------**/
 @charset "utf-8";
 * {
-    margin: 0
+    margin: 0;
     padding:0;
 }
 * {
-    outline: none !important;
+    outline-style: none;
 }
 header, nav, section, article, aside, footer {
     display: block;
@@ -69,7 +69,7 @@ input {
 /* Middle
 -----------------------------------------------------------------------------*/
 #content {
-    margin: 35px 0 0 0;
+    margin: 55px 0 0 0;
 }
 
 .h_logo{
@@ -92,15 +92,15 @@ input {
 
 .top_menu{
     /*width: 1000px;*/
-    padding-left: 120px;
-    margin: -15px auto;
+    padding-left: 152px;
+    margin: 0px auto;
    /** border-right: 1px solid #ffffff;
     border-left: 1px solid #ffffff;**/
 }
 .top_menu_2{
     /*width: 1000px;*/
-    padding-left: 120px;
-    margin: -15px auto;
+    padding-left: 152px;
+    margin: 0px auto;
     /** border-right: 1px solid #ffffff;
  border-left: 1px solid #ffffff;**/
 }
@@ -213,14 +213,14 @@ input {
 .e_slider{
     position: absolute;
     bottom:20px;
-    left: 360px;
+    left: 402px;
     margin:0px;
     width: 250px;
 }
 .e_slider_2{
     position: absolute;
     bottom:10px;
-    left: 360px;
+    left: 396px;
     margin:0px;
     width: 250px;
 
@@ -543,6 +543,6 @@ input {
     padding: 5px;
 }
 
-}
+
 
 
