@@ -22,21 +22,21 @@
     <splitter split-orientation="vertical" split-proportion="0.5871041">
       <split-first>
         <leaf>
-          <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="286" column="0" selection-start="5235" selection-end="5245" vertical-scroll-proportion="0.65163934">
+                <state line="333" column="20" selection-start="6070" selection-end="6070" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index-buy.html" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="index-buy.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index-buy.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="76" column="30" selection-start="3168" selection-end="3168" vertical-scroll-proportion="-12.538462">
+                <state line="57" column="66" selection-start="2006" selection-end="2006" vertical-scroll-proportion="0.495671">
                   <folding>
-                    <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -69,19 +69,19 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/css/style.css.CSS" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index-kids.html" />
+        <option value="$PROJECT_DIR$/index-wedding.html" />
         <option value="$PROJECT_DIR$/index-sale.html" />
         <option value="$PROJECT_DIR$/index-holydays.html" />
-        <option value="$PROJECT_DIR$/index-wedding.html" />
         <option value="$PROJECT_DIR$/index-buy.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="163" />
-    <option name="y" value="46" />
+    <option name="x" value="227" />
+    <option name="y" value="49" />
     <option name="width" value="1277" />
     <option name="height" value="1038" />
   </component>
@@ -111,7 +111,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -160,6 +159,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,8 +214,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="163" y="46" width="1277" height="1038" extended-state="0" />
-    <editor active="false" />
+    <frame x="227" y="49" width="1277" height="1038" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -288,24 +288,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Start-1.psd">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="21" selection-start="1882" selection-end="1882" vertical-scroll-proportion="0.03256705" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-5.8309093" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Detskie.psd">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
@@ -324,38 +309,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Svadba.psd">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state />
-      </provider>
       <provider editor-type-id="images">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index-wedding.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="284" column="64" selection-start="13653" selection-end="13668" vertical-scroll-proportion="0.6938776" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index-kids.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="39" selection-start="1447" selection-end="1447" vertical-scroll-proportion="0.020408163" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index-holydays.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="48" selection-start="1690" selection-end="1690" vertical-scroll-proportion="0.12244898" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kak kupit.psd">
-      <provider selected="true" editor-type-id="images">
+      <provider selected="true" editor-type-id="LargeFileEditor">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index-sale.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="22" selection-start="2210" selection-end="2210" vertical-scroll-proportion="1.91342">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/delivery_service.png">
@@ -363,19 +321,82 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index-buy.html">
+    <entry file="file://$PROJECT_DIR$/index-news.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="30" selection-start="3168" selection-end="3168" vertical-scroll-proportion="-12.538462">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="33" selection-start="1916" selection-end="1916" vertical-scroll-proportion="0.44805196">
           <folding>
-            <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-kids.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="52" selection-start="574" selection-end="574" vertical-scroll-proportion="0.22077923">
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Detskie.psd">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kak kupit.psd">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-wedding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="45" selection-start="1621" selection-end="1621" vertical-scroll-proportion="-2.465368">
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#2;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-sale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="45" selection-start="1613" selection-end="1613" vertical-scroll-proportion="0.478355">
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-holydays.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="21" selection-start="1533" selection-end="1533" vertical-scroll-proportion="0.66233766">
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="286" column="0" selection-start="5235" selection-end="5245" vertical-scroll-proportion="0.65163934">
+        <state line="333" column="20" selection-start="6070" selection-end="6070" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-buy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="66" selection-start="2006" selection-end="2006" vertical-scroll-proportion="0.495671">
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
