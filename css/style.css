@@ -355,6 +355,23 @@ input {
     display: block;
     position: relative;
 }
+.n_box_post{
+    position: relative;
+    float: left;
+    width: 59%;
+    padding: 15px 0px;
+}
+.n_box_post h3{
+    position: relative;
+    float: left;
+    display: block;
+    font-size: 20px;
+    color: #cc6633;
+    text-transform: uppercase;
+    font-weight: bold;
+    height: 22px;
+
+}
 /* Catalog
 -----------------------------------------------------------------------------*/
 .catalog{
