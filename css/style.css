@@ -391,8 +391,61 @@ input {
     display: block;
     color: #000000;
     font-size: 12px;
-    margin: 3px 0px 0px 0px;
+    margin: 2px 0px 0px 0px;
 }
+.m_box_tab1{
+    position: relative;
+    float: left;
+    width: 40.999%;
+    padding:  10px 30px 10px 0px;
+    margin: 0px;
+}
+.m_box_tab1 h4,.m_box_tab2 h4{
+    display: block;
+    font-size: 16px;
+    color: #000000;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0px 0px 2px 0px;
+}
+.m_box_tab2{
+    position: relative;
+    float: left;
+    width: 19.999%;
+    padding: 10px 5px;
+    margin: 0px;
+}
+.m_box_tab3{
+    position: relative;
+    float: left;
+    width: 37.999%;
+    padding: 10px 0px;
+    margin: 0px;
+}
+.m_box_tab3 h4{
+    display: block;
+    font-size: 16px;
+    color: #ff2626;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0px 0px 2px 0px;
+}
+.m_box_tab3 p{
+    font-style: italic;
+}
+.m_box_tab3 img{
+    display: block;
+    position: relative;
+    float: left;
+}
+.m_box_tab3_c{
+    position: relative;
+    float: left;
+    width: 55.999%;
+    padding: 0px 0px 0px 20px;
+    margin: 0px;
+}
+
 /* Catalog
 -----------------------------------------------------------------------------*/
 .catalog{
