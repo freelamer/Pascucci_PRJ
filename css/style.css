@@ -12,7 +12,7 @@ header, nav, section, article, aside, footer {
 }
 .clearfix:before,
 .clearfix:after {
-    content: " ";
+    content: "";
     display: table;
 }
 .clearfix:after {
@@ -27,13 +27,22 @@ header, nav, section, article, aside, footer {
 body {
     font: 12px/18px Arial, Tahoma, Verdana, sans-serif;
     background-repeat: no-repeat;
-    -moz-background-size: 100%;
-    -webkit-background-size: 100%;
-    -o-background-size: 100%;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
+}
+.bg_0{
+    background-image: url('../img/bg_0.jpg');
+}
+.bg_2{
+    background-image: url('../img/bg_2.jpg');
+}
+.bg_3{
+    background-image: url('../img/bg_3.jpg');
 }
 a {
     outline: none;
@@ -122,7 +131,7 @@ input {
     border-bottom: 1px solid #000000;
 }
 .top_menu ul li:hover{
-    background: rgba(30, 30, 30, 0.4);
+    background: rgba(50, 50, 50, 0.4);
 }
 .top_menu_2 ul li:hover{
     background: rgba(254,163,158,0.6);
@@ -151,14 +160,18 @@ input {
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
 }
-.top_menu ul li a:hover{
+.top_menu ul li:hover a{
     opacity: 1;
-
-
 }
-.top_menu_2 ul li a:hover{
+.top_menu ul li:hover{
+    cursor: pointer;
+}
+.top_menu_2 ul li:hover a{
     opacity: 1;
     color: #FFFFFF;
+}
+.top_menu_2 ul li:hover{
+    cursor: pointer;
 }
 .page_title {
     position: relative;
@@ -236,6 +249,9 @@ input {
     float: left;
     list-style: none;
     padding: 0 9px;
+}
+.e_slider ul li:hover, .e_slider_2 ul li:hover{
+    opacity: 0.6;
 }
 /*-----------------------------page_container---------------------------*/
 .page{
@@ -335,7 +351,7 @@ input {
     position: relative;
     width: 90%;
     margin: 0 auto;
-    padding: 5px 0px;
+    padding:6px 0px;
     border-bottom:1px solid #000000; ;
 }
 .news_m_box{
@@ -349,7 +365,7 @@ input {
     display: block;
     position: relative;
     float: left;
-    width: 40.99%;
+    width: 39.99%;
 }
 .n_box_img a img{
     display: block;
@@ -359,18 +375,23 @@ input {
     position: relative;
     float: left;
     width: 59%;
-    padding: 15px 0px;
+    padding: 10px 15px;
 }
 .n_box_post h3{
     position: relative;
     float: left;
     display: block;
-    font-size: 20px;
+    font-size: 18px;
+    margin-right: 5px;
     color: #cc6633;
     text-transform: uppercase;
     font-weight: bold;
-    height: 22px;
-
+}
+.n_box_post p{
+    display: block;
+    color: #000000;
+    font-size: 12px;
+    margin: 3px 0px 0px 0px;
 }
 /* Catalog
 -----------------------------------------------------------------------------*/
