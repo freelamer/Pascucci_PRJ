@@ -696,6 +696,8 @@ input {
     margin: 30px auto;
     border-top: 1px solid #000000 ;
 }
+
+
 /*
 --------------------------------CORP_BOX---------------------------------------------*/
 .corp_box{
@@ -723,6 +725,49 @@ input {
     font-size: 20px;
     color:#000000;
     padding-bottom: 10px;
+}
+/*
+--------------------------------hist_BOX---------------------------------------------*/
+.hist_box{
+    position: relative;
+    margin: 0px;
+    padding: 0px 20px;
+}
+.hist_box_img{
+    display: block;
+    position: relative;
+    float: left;
+    width: 23.99%;
+    margin: 0px;
+    padding: 5px 5px;
+}
+.hist_box_group{
+    position: relative;
+    float: left;
+    width: 51.99%;
+}
+.hist_box_post{
+    display: block;
+    position: relative;
+    float: left;
+    margin: 0px;
+    padding: 10px 5px 0px 5px;
+}
+.hist_box_post h3{
+    float: left;
+    font-size: 20px;
+    color:#000000;
+    padding: 0px 3px;
+}
+.hist_box_post h4{
+    float: left;
+    font-size: 16px;
+    color:#000000;
+    padding: 0px 3px;
+}
+.hist_box_post p{
+    margin-top: 3px;
+    margin-bottom: 10px;
 }
 /* Footer
 -----------------------------------------------------------------------------*/

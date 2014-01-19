@@ -19,26 +19,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="698" column="2" selection-start="12626" selection-end="12626" vertical-scroll-proportion="0.53636366">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index-corp.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index-corp.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="36" selection-start="1984" selection-end="1984" vertical-scroll-proportion="-9.730769">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -63,6 +44,7 @@
         <option value="$PROJECT_DIR$/index-jobs.html" />
         <option value="$PROJECT_DIR$/index-prz.html" />
         <option value="$PROJECT_DIR$/index-corp.html" />
+        <option value="$PROJECT_DIR$/index-history.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
@@ -203,13 +185,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="348" y="197" width="931" height="1038" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33484164" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2572383" sideWeight="0.31900454" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2572383" sideWeight="0.31900454" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2572383" sideWeight="0.3382353" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -276,11 +258,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Detskie.psd">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Kak kupit.psd">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -372,14 +349,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index-corp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="36" selection-start="1984" selection-end="1984" vertical-scroll-proportion="-9.730769">
+        <state line="55" column="36" selection-start="1984" selection-end="1984" vertical-scroll-proportion="0.48282441">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-history.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="58" selection-start="1945" selection-end="1945" vertical-scroll-proportion="-5.1153846">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="698" column="2" selection-start="12626" selection-end="12626" vertical-scroll-proportion="0.53636366">
+        <state line="763" column="17" selection-start="13817" selection-end="13817" vertical-scroll-proportion="0.47454545">
           <folding />
         </state>
       </provider>
