@@ -1,6 +1,6 @@
 /**---------------------main_and_bugfix----------------------------**/
 @charset "utf-8";
-@import "http://webfonts.ru/import/azoft.css";
+/**@import "http://webfonts.ru/import/azoft.css";**/
 * {
     margin: 0;
     padding:0;
@@ -189,7 +189,7 @@ input {
     position: relative;
     display: block;
     margin: 0 auto;
-    font-family: 'Azoft Sans';
+    font-family: 'Azoft Sans',SANS-SERIF;
     text-align: center;
     font-size: 28px;
     font-weight: lighter;
@@ -651,6 +651,50 @@ input {
 .rtab_block h4{
     font-size: 25px;
     padding: 10px 0px;
+}
+/*
+--------------------------------PRZ_BOX---------------------------------------------*/
+.prz_box{
+    position: relative;
+    margin: 0px;
+    padding: 0px 20px 30px 20px;
+}
+.prz_box_img{
+    display: block;
+    position: relative;
+    float: left;
+    width: 50.99%;
+    margin: 0px;
+    padding: 10px 20px 10px 70px;
+}
+.prz_box_c{
+    display: block;
+    position: relative;
+    float: left;
+    width: 48.99%;
+    margin: 0px;
+    padding: 10px 20px 10px 20px;
+
+}
+.prz_box_c h3{
+    font-size: 35px;
+    color: #000000;
+    width: 60%;
+    margin: 10px auto;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.prz_box_c p{
+    font: 18pt sans-serif;
+
+    color: #000000;
+}
+#p_box_line{
+    display: block;
+    position: relative;
+    width: 40%;
+    margin: 30px auto;
+    border-top: 1px solid #000000 ;
 }
 
 /* Footer
