@@ -477,7 +477,10 @@ input {
     font-weight: lighter;
     text-decoration: none;
     text-transform: uppercase;
-
+}
+.catalog_name h4:hover{
+    color: #a80a2b;
+    opacity: 0.8;
 }
 .catalog_weight{
     display: block;
@@ -518,7 +521,7 @@ input {
 .catalog_rat ul li:first-of-type{
     padding-left: 0px;
 }
-/* Blog -Akciya
+/* Blog
 -----------------------------------------------------------------------------*/
 
 .blog{
@@ -570,9 +573,27 @@ input {
 }
 
 /*
------------------------------------------------------------------------------*/
+--------------------------------PR_BOX---------------------------------------------*/
+.pr_box{
+    position: relative;
+    margin: 0px;
+    padding: 20px 35px;
+    float: left;
+    width: 30.99%;
+}
+.pr_box_img{
 
+}
+.pr_box_title{
+    color: #000000;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+    margin: 10px auto;
+    padding: 0 15px;
 
+}
 /* Footer
 -----------------------------------------------------------------------------*/
 #footer {
