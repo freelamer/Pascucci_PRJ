@@ -24,6 +24,16 @@ header, nav, section, article, aside, footer {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+@font-face {
+    font-family: 'proxima_nova_rgregular';
+    src: url('fonts/proximanova-regularproxima_nova.eot');
+    src: url('fonts/proximanova-regularproxima_nova.eot?#iefix') format('embedded-opentype'),
+    url('fonts/proximanova-regularproxima_nova.woff') format('woff'),
+    url('fonts/proximanova-regularproxima_nova.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
 /**------------------------------------------------------------------**/
 body {
     font: 12px/18px Arial, Tahoma, Verdana, sans-serif;
@@ -54,6 +64,7 @@ a:hover {
 }
 p {
     margin: 0 0 18px
+
 }
 img {
     border: none;
@@ -176,6 +187,46 @@ input {
 .top_menu_2 ul li:hover{
     cursor: pointer;
 }
+.top_menu .t_menu_down ul{
+    display: block;
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    background: rgba(50, 50, 50, 0.4);
+    opacity: 0;
+    z-index: 9999;
+
+}
+.top_menu .t_menu_down ul li{
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+    padding: 0;
+    list-style: none;
+    border: none;
+    -webkit-transition: height .25s ease .1s;
+    -moz-transition: height .25s ease .1s;
+    -o-transition: height .25s ease .1s;
+    -ms-transition: height .25s ease .1s;
+    transition: height .25s ease .1s;
+
+}
+.top_menu ul li:hover > .t_menu_down ul{
+    opacity: 1;
+    -webkit-transition: opacity .25s ease .1s;
+    -moz-transition: opacity .25s ease .1s;
+    -o-transition: opacity .25s ease .1s;
+    -ms-transition: opacity .25s ease .1s;
+    transition: opacity .25s ease .1s;
+}
+.top_menu ul li:hover > .t_menu_down ul li,.t_menu_down ul li:hover{
+    height: 36px;
+    overflow: visible;
+    padding: 10px 10px;
+
+}
 .page_title {
     position: relative;
     display: block;
@@ -189,7 +240,7 @@ input {
     position: relative;
     display: block;
     margin: 0 auto;
-    font-family: 'Azoft Sans',SANS-SERIF;
+ /*font-family:'proxima_nova_rgregular';**/
     text-align: center;
     font-size: 28px;
     font-weight: lighter;
